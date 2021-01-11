@@ -1,7 +1,7 @@
 @import "reset";
 @import "typography";
 
-$primary-color:#f70201;
+$primary-color:#ca774a;
 $body-font: "Jost";
 $body-size: 24px;
 $mq-large: 800px;
@@ -45,6 +45,5 @@ section {
 
   p {
     margin: 24px 0 0 0;
-    // @include drop-shadow(blue);
   }
 }
